@@ -1,3 +1,5 @@
+<img width="1278" height="599" alt="image" src="https://github.com/user-attachments/assets/f5866ddf-9313-4a08-8212-952413482f27" />
+
 # GitReview
 
 GitReview is an AI-powered code analysis tool that helps developers review and evaluate codebases. It provides automated scoring on readability, maintainability, performance, and overall quality using advanced language models.
