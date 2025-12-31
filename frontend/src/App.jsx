@@ -103,7 +103,7 @@ function App() {
               setLoading(false);
             }}
           >
-             Text Review
+             File Review
           </motion.button>
 
           <motion.button
@@ -125,7 +125,7 @@ function App() {
         </aside>
 
         <main className="main">
-          <h1>{mode === "text" ? "Text Review" : "URL Review"}</h1>
+          <h1>{mode === "text" ? "File Review" : "URL Review"}</h1>
 
           <motion.div
             key={mode}
